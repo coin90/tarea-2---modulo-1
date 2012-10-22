@@ -7,7 +7,7 @@ body {
 	
 .izquierda {
 	width: 300px;
-	height: 100%;
+	height: 800px;
 	padding: 10px;
 	float: left;
 	text-align: justify;
@@ -20,10 +20,14 @@ body {
 .izquierda img {
 	padding-bottom: 40px;
 }
+
+.izquierda ul {
+	color: blue;
+}
 	
 .derecha {
-	padding: 10px;
-	height: 100%;
+	padding: 60px;
+	height: 700px;
 	text-align: justify;
 	margin-left: 320px;
 	font-size: 20px;
